@@ -40,7 +40,7 @@ namespace case2
                 }
                 else
                 {
-                    Console.WriteLine("Ikan dalam keadaan perut yang normal");
+                    Console.WriteLine("Ikan dalam keadaan pencernaan yang stabil");
                 }
             }
 
